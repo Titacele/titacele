@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello word!!
+I'm Maria Celeste Reinaudo.
+I'm as a new software developer.
+Pronouns: she/her
+I love reading, astrology and diving.
